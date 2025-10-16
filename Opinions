@@ -1,1 +1,5 @@
-
+Vendula:
+1) Should it be 9 repeats per treatment? Two operators measured same run -> average
+3) Is it necesary to display boxplot of L and m when we set values of both variables?
+  Are we sure with the run_order?
+4)
